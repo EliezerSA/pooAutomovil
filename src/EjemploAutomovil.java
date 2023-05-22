@@ -13,6 +13,8 @@ public class EjemploAutomovil {
         mazda.asignarCilindrada(3.0);
         mazda.asignarColor("Rojo");
         System.out.println("mazda.fabricante = " + mazda.getCilindrada());
+        System.out.println("mazda.color = " + mazda.getColor());
+        System.out.println("mazda.modelo = " + mazda.getModel());
 
         /**
         subaru.detalle();
